@@ -1,91 +1,113 @@
+# Опыт работы
+
+------
+
+__2010-2022__
+
+## Специалист по локализации, SAS Institute, Европейский центр по локализации (ELC)
+
+__ЗАДАЧИ__
+
+### локализация ПО
+
+- перевод в CAT tool
+
+- управление памятью перевода
+- оптимизация технических аспектов процесса перевода (пересечение между продуктами, конвертация между различными CAT tools)
+- анализ бизнес-логики продуктов (источники - документация, встречи с разработчиками и консультантами, тестирование продукта)
+
+### поддержка терминологии
+- обновление глоссария для CAT tool
+- согласование терминов с консультантами
+- анализ и исправление перевода аутсорс-переводчиками
+- создание и поддержка единой для всех локализуемых продуктов концептуальной базы
+- QA терминов в Xbench, Transit и MemoQ
+
+### тестирование
+- сбор информации о новых функциях в релизе (документация, Jira, общение с разработчиками)
+- изучение продуктов с точки зрения пользователя
+- выявление лингвистических ошибок и багов
+- создание и мониторинг треков в Jira
+
+### доменная экспертиза
+- углубленное изучение потоковой аналитики, оптимизации для ритейла и   кредитного скоринга
+- анализ новых функций в каждом релизе
+- консультации по вопросам использования этих продуктов для сотрудников в ELC
+- документирование LTS релизов в Jira
+- обучающие презентации
+
+__ПРОДУКТЫ__
+
+- Machine Learning
+- Model Management
+- Risk Management
+- Streaming Analytics
+- Natural Language Generation
+- Decision Management
+- Customer Intelligence
+- Fraud
+- Credit Scoring
+- Anti-Money Laundering
+
+ __ИНСТРУМЕНТЫ__
+
+- CAT tools: Transit, MemoQ, Catalyst
+- Xbench
+- Jira
+- Git
+- Confluence
+- K8s
+- Docker
+- Jenkins
+
 ---
-layout: cv
-title: Isaac Newtons's CV
+__2007-2008__
+
+## Технический писатель, Mediaspectrum Inc
+
+__ЗАДАЧИ__
+
+- получение информации о компонентах и архитектуре продукта от разработчиков/архитекторов
+- тестирование системы
+- разработка руководства пользователя, руководства по конфигурации и руководства по инсталляции
+
+__ПРОДУКТ__
+
+Решение для управления контентом для автоматизации бизнеса крупных издательств (клиент на С++ и Java, сервер на JBoss и WebSphere).
+
+__ИНСТРУМЕНТЫ__
+
+- MS Word
+- Adobe Acrobat
+- Visio
+
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+__2005-2006__
 
+## Технический писатель, SWsoft
+__ЗАДАЧИ__
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- получать информацию о новых и обновленных функциях от разработчиков
+- переводить низкоуровневое описание системы на доступный для конечного пользователя язык в онлайн-справке и руководстве пользователя
+- тестировать решение
+- выполнять peer-review
 
 
-### Research interests
+__ПРОДУКТ__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Virtuozzo, решение для виртуализации на уровне ОС
 
 
+__ИНСТРУМЕНТЫ__
 
-## Awards
+- AuthorIT  
+- SSH
+- CVS
+- VMware
 
-`2012`
-President, *Royal Society*, London, UK
+___
+## Образование
+__1992-1997__
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+### ЛИНГВИСТ, ПЕРЕВОДЧИК, АНГЛИЙСКИЙ ЯЗЫК И ЛИТЕРАТУРА, Воронежский государственный университет
